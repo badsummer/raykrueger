@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
   <groupId>com.googlecode</groupId>
   <artifactId>hibernate-memcached</artifactId>
   <version>0.6</version>
@@ -12,7 +13,8 @@
       <version>1.0-RC1</version>
       <version>1.0</version>
       <version>1.1.0</version>
+      <version>1.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20081207231656</lastUpdated>
+    <lastUpdated>20090715031341</lastUpdated>
   </versioning>
 </metadata>
